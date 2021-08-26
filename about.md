@@ -4,20 +4,20 @@ permalink: /about/
 layout: info
 ---
 
+## CSProjects
+
+This is the website for Pre-Calculus Honors Acclerated (CSProjects) 2021-22, at 
+[Marlborough School](https://www.marlborough.org/) in Los Angeles, taught
+by Dr. Darren Kessner, Co-Head of the 
+[STEM+ Program](http://stem.marlborough.org/).
+
+
 ## Project 
 
-This is a Jekyll project template for class/workshop notes, examples, and
-interactive demos.  To create your own project based on this template, go to
-the GitHub project page and click the green "Use this template" button.
+Project page: [https://github.com/dkessner/CSProjects](https://github.com/dkessner/CSProjects)
 
-Features:
-- LaTeX mathematical equations inside Markdown
-- p5 sketch embedding, with helper functions:
-    - mouse -> arrow key event delegation
-    - windowResized() event handling
+Template: [https://github.com/dkessner/class_notes](https://github.com/dkessner/class_notes)
 
-GitHub project page:   
-[https://github.com/dkessner/class_notes](https://github.com/dkessner/class_notes)
 
 ## License
 
