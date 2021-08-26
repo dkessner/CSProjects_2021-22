@@ -1,0 +1,60 @@
+article {
+    background-color: #e8ecdb;
+    padding: 30px;
+}
+
+hr {
+    color: black;
+    width: 100%;
+}
+
+.trigger {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1;
+}
+
+.dkcontainer {
+    display: flex;
+}
+
+@include media-query($on-palm) {
+.dkcontainer {
+    display: flex;
+    flex-direction: column;
+}}
+
+.dkitem.site-header {
+    height: 100vh;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: none;
+    background-color: rgba(255, 255, 255, .5);
+}
+
+@include media-query($on-palm) {
+.dkitem.site-header {
+    height: 100%;
+    width: 100%;
+}}
+
+div.sketch-container {
+    display: flex;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: 'ComicMono';
+    src: url('fonts/ComicMono.ttf') format('truetype');
+}
+
+code {
+    font-family: 'ComicMono', 'Courier New',  monospace;
+}
+
+body {
+    font-family: Georgia, serif;
+}
