@@ -6,7 +6,7 @@ layout: info
 
 ## CSProjects
 
-This is the website for Pre-Calculus Honors Acclerated (CSProjects) 2021-22, at 
+This is the website for Computer Science Projects (CSProjects) 2021-22, at 
 [Marlborough School](https://www.marlborough.org/) in Los Angeles, taught
 by Dr. Darren Kessner, Co-Head of the 
 [STEM+ Program](http://stem.marlborough.org/).
