@@ -11,6 +11,10 @@ This is the website for Computer Science Projects (CSProjects) 2021-22, at
 by Dr. Darren Kessner, Co-Head of the 
 [STEM+ Program](http://stem.marlborough.org/).
 
+Thank you to Dr. Priscilla Sands, Head of School, and Ms. Regina Rosi
+Mitchell, Director of Entrepreneurship and Innovation for supporting
+this pilot project.
+
 
 ## Project 
 
