@@ -6,15 +6,26 @@ title: Hello p5
 <iframe src="hello_p5.html" width="100%" height="420rem"> </iframe>
 
 This example has 3 files:
-- `hello_p5.html`
-- `hello_p5.js`
-- `p5.min.js`
+- `hello_p5.js`: your p5 sketch
+- `hello_p5.html`: your webpage
+- `p5.min.js`: the p5 library
 
+## Your p5 sketch
+
+[p5](https://p5js.org/) sketches look a lot like
+[Processing](https://processing.org/) sketches, except that they are written in
+Javascript.
 
 [hello_p5.js](hello_p5.js)
 
 ```javascript
 {% include_relative hello_p5.js %}```
+
+## Your webpage
+
+Your webpage needs to load `p5.min.js` and `hello_p5.js`.
+
+p5 will place the sketch inside the `<main>` element.
 
 [hello_p5.html](hello_p5.html)
 
