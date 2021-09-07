@@ -5,7 +5,7 @@ title: Hello p5
 
 <iframe src="hello_p5.html" width="100%" height="420rem"> </iframe>
 
-This example requires 3 files:
+This example has 3 files:
 - `hello_p5.html`
 - `hello_p5.js`
 - `p5.min.js`
