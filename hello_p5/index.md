@@ -3,7 +3,7 @@ layout: page
 title: Hello p5
 ---
 
-<iframe src="hello_p5.html" width="100%" height="420rem"> </iframe>
+<iframe src="hello_p5.html" width="100%" height="460rem"> </iframe>
 
 This example has 3 files:
 - `hello_p5.js`: your p5 sketch
