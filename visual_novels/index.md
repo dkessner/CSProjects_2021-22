@@ -6,6 +6,7 @@ title: Visual novels / narrative video games
 
 [visual novel template](https://github.com/dkessner/visual_novel_template)
 
+[Monogatari documentation](https://developers.monogatari.io/documentation/)
 
 
 ## Reference
