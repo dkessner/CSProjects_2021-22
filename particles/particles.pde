@@ -1,5 +1,3 @@
-
-
 class Particle
 {
     PVector position;
@@ -33,16 +31,13 @@ class Particle
     }
 }
 
-
 ArrayList<Particle> particles;
-
 
 void setup()
 {
     size(400, 400);
     particles = new ArrayList<Particle>();
 }
-
 
 void createParticles()
 {
@@ -53,7 +48,6 @@ void createParticles()
         particles.add(new Particle(position, velocity));
     }
 }
-
 
 void draw()
 {
@@ -68,17 +62,8 @@ void draw()
     textSize(20);
     text(particles.size(), 50, 50);
 
+    // remove dead particles
     for (int i=particles.size()-1; i>=0; i--)
       if (particles.get(i).alive == false)
         particles.remove(i);
 }
-
-
-void keyPressed()
-{
-    createParticles();
-}
-
-
-
-

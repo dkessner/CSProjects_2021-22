@@ -3,8 +3,8 @@ layout: page
 title: Visual novels / narrative video games
 ---
 
-
-[visual novel template](https://github.com/dkessner/visual_novel_template)
+[Visual novel template](https://github.com/dkessner/visual_novel_template)
+and [live demo](https://dkessner.github.io/visual_novel_template/)
 
 [Monogatari documentation](https://developers.monogatari.io/documentation/)
 
