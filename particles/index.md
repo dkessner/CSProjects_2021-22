@@ -3,6 +3,10 @@ layout: page
 title: Particle generators
 ---
 
+<script src="{{ "/js/processing-p5-convert-bundle.js" | relative_url }}"></script>
+<script src="{{ "/js/processing-p5-convert-bootstrap.js" | relative_url }}"></script>
+
+
 Here's an example of a simple particle generator in Processing.  The next step
 would be to make a ParticleGenerator class with this functionality, to make it
 easier to use in your program.
