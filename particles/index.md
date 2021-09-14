@@ -25,6 +25,6 @@ easier to use in your program.
             let p = document.getElementById("ppconvert");
             let c = document.getElementById("defaultCanvas0");
             p.appendChild(c);
-        }, 300);
+        }, 500);
     }
 </script>
