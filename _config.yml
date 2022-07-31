@@ -23,7 +23,7 @@ email: Darren.Kessner@marlborough.org
 author: Dr. Kessner
 description: >- # this means to ignore newlines until "baseurl:"
   CS Projects 2021-22
-baseurl: "CSProjects" # the subpath of your site, e.g. /blog
+baseurl: "CSProjects_2021-22" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

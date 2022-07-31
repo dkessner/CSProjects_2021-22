@@ -1,6 +1,6 @@
 # class notes template
 
-[Live site](https://dkessner.github.io/CSProjects/)
+[Live site](https://dkessner.github.io/CSProjects_2021-22/)
 
 
 ## notes
